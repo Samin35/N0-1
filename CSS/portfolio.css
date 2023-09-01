@@ -156,3 +156,11 @@ hr {}
     text-align: center;
     margin-top: 60px;
 }
+
+footer {
+    display: flex;
+    padding: 50px 120px;
+    gap: 50px;
+    background-color: pink;
+    margin-top: 40px;
+}
