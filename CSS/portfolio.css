@@ -95,3 +95,8 @@ header {
 .about-des {
     text-align: center;
 }
+
+.names {
+    display: flex;
+    justify-content: space-around;
+}
