@@ -136,3 +136,23 @@ main section {
     border-radius: 20px;
     box-shadow: 10px 10px 15px blueviolet;
 }
+
+hr {}
+
+.resume-colum {
+    display: flex;
+    gap: 50px;
+}
+
+.resume {
+    padding: 40px 200px;
+}
+
+.sec-title {
+    text-align: center;
+}
+
+.button-div {
+    text-align: center;
+    margin-top: 60px;
+}
